@@ -4,7 +4,7 @@ body {
 }
 
 .tiles {
-    margin: 48px auto;
+    margin: 3rem auto;
     width: max-content;
     display: grid;
     grid-template-columns: repeat(4, 100px);
@@ -12,8 +12,8 @@ body {
 }
 
 .tile {
-    height: 100px;
+    height: 6.2rem;
     background: #000;
-    border: 5px solid #fff;
+    border: 0.3rem solid #fff;
     cursor: pointer;
 }
